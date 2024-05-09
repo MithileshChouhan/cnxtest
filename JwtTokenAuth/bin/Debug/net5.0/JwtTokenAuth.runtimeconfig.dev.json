@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\mithi\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mithi\\.nuget\\packages"
+    ]
+  }
+}
